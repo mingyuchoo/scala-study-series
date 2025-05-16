@@ -1,3 +1,8 @@
+// 
+// $ scala run hello.scala
+// 
+
+
 //> using scala 3.7.0
 
 
