@@ -1,6 +1,6 @@
 # 블로그 서비스
 
-Scala 3.7.0과 http4s, Doobie, Circe를 사용하여 구현된 웹 블로그 서비스입니다.
+Scala 3.7.3과 http4s, Doobie, Circe를 사용하여 구현된 웹 블로그 서비스입니다.
 
 ## 주요 기능
 
@@ -13,7 +13,7 @@ Scala 3.7.0과 http4s, Doobie, Circe를 사용하여 구현된 웹 블로그 서
 
 ## 사용 기술
 
-- Scala 3.7.0 - 함수형 프로그래밍 언어
+- Scala 3.7.3 - 함수형 프로그래밍 언어
 - http4s - 타입 안전한 HTTP 서버 및 클라이언트 라이브러리
 - Doobie - 함수형 JDBC 레이어
 - Circe - JSON 인코딩/디코딩 라이브러리
