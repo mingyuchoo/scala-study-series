@@ -2,7 +2,7 @@
 // $ scala run counter.scala
 //
 
-//> using scala 3.7.3
+//> using scala 384
 //> using toolkit 0.5.0
 
 @main

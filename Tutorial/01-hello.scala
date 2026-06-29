@@ -3,7 +3,7 @@
 // 
 
 
-//> using scala 3.7.3
+//> using scala 384
 
 
 @main

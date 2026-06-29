@@ -2,7 +2,7 @@
 // $ scala run counter.scala
 //
 
-//> using scala 3.7.3
+//> using scala 384
 //> using dep "com.lihaoyi::os-lib:0.11.4"
 
 @main

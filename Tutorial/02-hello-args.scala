@@ -2,7 +2,7 @@
 // $ scala run hello-args.scala -- Gabriel
 //
 
-//> using scala 3.7.3
+//> using scala 384
 
 @main
 def hello(name: String): Unit =
